@@ -6,4 +6,4 @@
 ![SkywalkerDarren](https://github-readme-stats.vercel.app/api?username=SkywalkerDarren&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working on Android and Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Rust
