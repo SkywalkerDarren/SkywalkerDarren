@@ -8,8 +8,11 @@
 ![](https://img.shields.io/badge/language-rust-red)
 
 ![](https://img.shields.io/badge/E--mail-yh322yh@outlook.com-brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=skywalkerdarren)
 
 ![SkywalkerDarren](https://github-readme-stats.vercel.app/api?username=SkywalkerDarren&show_icons=true&count_private=true)
+
+![Metrics](https://metrics.lecoq.io/skywalkerdarren?template=classic&config.timezone=Asia%2FShanghai)
 
 - 🚀 I‘m FULL STACK programmer
 - 🔭 I’m currently working on Android and Flutter and Backend
