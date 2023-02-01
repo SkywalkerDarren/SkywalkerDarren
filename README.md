@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/language-kotlin-orange)
 ![](https://img.shields.io/badge/language-rust-red)
 
-![](https://img.shields.io/badge/E--mail-yh322yh@outlook.com-brightgreen)
+![](https://img.shields.io/badge/E--mail-my@skywalkerdarren.com-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=skywalkerdarren)
 
 ![SkywalkerDarren](https://github-readme-stats.vercel.app/api?username=SkywalkerDarren&show_icons=true&count_private=true)
