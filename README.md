@@ -14,6 +14,8 @@
 
 ![Metrics](https://metrics.lecoq.io/skywalkerdarren?template=classic&config.timezone=Asia%2FShanghai)
 
-- 🚀 I‘m FULL STACK programmer
-- 🔭 I’m currently working on Android and Flutter and Backend
-- 🌱 I’m currently learning Flutter and GO
+- 🚀 I'm a Full Stack Engineer skilled in Android, Flutter, and Backend development.  
+
+- 🔭 I’m proficient in Domain-Driven Design (DDD), RAG, and prompt engineering, capable of handling projects independently.  
+
+- 🌱 I’m currently diving into the world of deep learning to enhance my technical expertise.
